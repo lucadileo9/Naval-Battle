@@ -8,6 +8,7 @@ This is a command-line implementation of a Naval Battle game, developed as a pro
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Clean](#clean)
 - [Future Developments](#future-developments)
 - [Contributing](#contributing)
 - [License](#license)
@@ -31,8 +32,8 @@ To compile and run the game on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/lucadileo9/Naval-Battle.git
+   cd battaglia_navale
    ```
 
 2. **Install dependencies:**
